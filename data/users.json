@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Abdulloh Ergashev",
+    "email": "abdulloh.ergashev@hospital.uz",
+    "password": "director123",
+    "role": "director"
+  },
+  {
+    "id": 2,
+    "name": "Dilbar Karimova",
+    "email": "dilbar.karimova@hospital.uz",
+    "password": "director456",
+    "role": "director"
+  },
+  {
+    "id": 3,
+    "name": "Azizbek Rahmatov",
+    "email": "azizbek.rahmatov@hospital.uz",
+    "password": "admin123",
+    "role": "admin",
+    "branch": "Toshkent 1-filiali"
+  },
+  {
+    "id": 4,
+    "name": "Malika Qodirova",
+    "email": "malika.qodirova@hospital.uz",
+    "password": "admin456",
+    "role": "admin",
+    "branch": "Samarqand filial"
+  },
+  {
+    "id": 5,
+    "name": "Shahzoda Rustamova",
+    "email": "shahzoda.rustamova@gmail.com",
+    "password": "client123",
+    "role": "client",
+    "roomNumber": 203,
+    "userType": "guest",
+    "phone": "917809960"
+  },
+  {
+    "id": 6,
+    "name": "Jamshid Xoliqov",
+    "email": "jamshid.xoliqov@gmail.com",
+    "password": "client456",
+    "role": "client",
+    "roomNumber": 105,
+    "userType": "guest",
+    "phone": "917809960"
+  },
+  {
+    "id": 7,
+    "name": "Muhammad Yusuf Nasrulloh",
+    "email": "salom@gmail.com",
+    "password": "salomHam123",
+    "phone": "917809960",
+    "userType": "guest",
+    "role": "director",
+    "roomNumber": ""
+  }
+]
