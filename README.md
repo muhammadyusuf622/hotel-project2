@@ -36,7 +36,7 @@ The HOTEL project is a comprehensive hotel management system designed for both g
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/muhammadyusuf622/hotel-project2.git>
 cd hotel-project
 npm install
 # or
@@ -45,3 +45,4 @@ npm run dev
 
 git clone <your-repo-url>
 cd hotel-project
+
